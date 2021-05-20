@@ -27,28 +27,10 @@
 *color7:  #a89984
 *color15: #ebdbb2
 
-!! URxvt Appearance
-!URxvt.font: xft:IBM Plex Mono:style=Regular:pixelsize=14:antialias=true:hinting=full,\
-!            xft:Noto Color Emoji,\
-!            xft:Symbola:pixelsize=14:antialias=true:hinting=full
-!URxvt.boldFont: xft:IBM Plex Mono:style=Bold:pixelsize=14:antialias=true:hinting=full,\
-!                xft:Noto Color Emoji,\
-!                xft:Symbola:pixelsize=14:antialias=true:hinting=full
-!URxvt.italicFont: xft:IBM Plex Mono:style=Italic:pixelsize=14:antialias=true:hinting=full,\
-!                xft:Noto Color Emoji,\
-!                xft:Symbola:pixelsize=14:antialias=true:hinting=full
-!URxvt.boldItalicFont: xft:IBM Plex Mono:style=Bold Italic:pixelsize=14:antialias=true:hinting=full,\
-!                xft:Noto Color Emoji,\
-!                xft:Symbola:pixelsize=14:antialias=true:hinting=full
-!URxvt.letterSpace: -10
-
 URxvt.font:     xft:bitstream vera sans mono:size=10:antialias=true
 URxvt.boldFont: xft:bitstream vera sans mono:bold:size=10:antialias=true
 URxvt.italicFont: xft:bitstream vera sans mono:italic:size=10:antialias=true
-!URxvt.font: xft:IBM Plex Mono:style=Regular:size=11
-!URxvt.boldFont: xft:IBM Plex Mono:style=Bold:size=11
-!URxvt.italicFont: xft:IBM Plex Mono:style=Italic:size1
-!URxvt.boldItalicFont: xft:IBM Plex Mono:style=Bold Italic:size=11
+
 URxvt.letterSpace: -2
 URxvt.lineSpace: 0
 URxvt.geometry: 92x24
@@ -61,6 +43,3 @@ URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true
 URxvt.depth: 24
 URxvt.iso14755: false
-!URxvt.borderWidth: 0
-!URxvt.internalBorder: 0
-!URxvt.externalBorder: 0
